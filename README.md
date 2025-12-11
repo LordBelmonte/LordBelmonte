@@ -1,6 +1,8 @@
 # 👋🏻 Felipe Belmonte
 
-Desenvolvedor full-stack em constante evolução.
+Programador PHP Júnior focado em desenvolvimento de sistemas web, APIs e CRUDs. 
+Experiência prática com PHP, MySQL, HTML, CSS, JavaScript e lógica de programação.
+Buscando minha primeira oportunidade na área de tecnologia.
 
 ### Conecte-se comigo
 
@@ -24,12 +26,6 @@ Desenvolvedor full-stack em constante evolução.
 ### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LordBelmonte&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-
-### Meus Principais Desafios de Projeto DIO
-
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
- 
 
 
 
